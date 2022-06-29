@@ -1,0 +1,8 @@
+C:\Users\amerh\source\repos\Naloga16Vaje2\bin\Debug\Naloga16Vaje2.exe.config
+C:\Users\amerh\source\repos\Naloga16Vaje2\bin\Debug\Naloga16Vaje2.exe
+C:\Users\amerh\source\repos\Naloga16Vaje2\bin\Debug\Naloga16Vaje2.pdb
+C:\Users\amerh\source\repos\Naloga16Vaje2\obj\Debug\Naloga16Vaje2.csproj.AssemblyReference.cache
+C:\Users\amerh\source\repos\Naloga16Vaje2\obj\Debug\Naloga16Vaje2.csproj.SuggestedBindingRedirects.cache
+C:\Users\amerh\source\repos\Naloga16Vaje2\obj\Debug\Naloga16Vaje2.csproj.CoreCompileInputs.cache
+C:\Users\amerh\source\repos\Naloga16Vaje2\obj\Debug\Naloga16Vaje2.exe
+C:\Users\amerh\source\repos\Naloga16Vaje2\obj\Debug\Naloga16Vaje2.pdb
